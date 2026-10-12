@@ -69,11 +69,19 @@ I'm currently a Software Engineer at Chanzo, and I'm open to full-time software 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
+<a href="https://github.com/Sarah-Kayembe/bitecast">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bitecast-dark.svg">
+  <img alt="BiteCast" src="assets/bitecast-light.svg" width="100%">
+</picture>
+</a>
+</td>
+<td width="50%">
 <a href="https://github.com/Sarah-Kayembe/study-buddy-hub">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/study-buddy-hub-dark.svg">
-  <img alt="Study Buddy Hub" src="assets/study-buddy-hub-light.svg" width="50%">
+  <img alt="Study Buddy Hub" src="assets/study-buddy-hub-light.svg" width="100%">
 </picture>
 </a>
 </td>
