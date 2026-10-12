@@ -68,6 +68,16 @@ I'm currently a Software Engineer at Chanzo, and I'm open to full-time software 
 </picture>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Sarah-Kayembe/study-buddy-hub">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/study-buddy-hub-dark.svg">
+  <img alt="Study Buddy Hub" src="assets/study-buddy-hub-light.svg" width="50%">
+</picture>
+</a>
+</td>
+</tr>
 </table>
 
 ### 📄 Research
